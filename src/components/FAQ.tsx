@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { ChevronDown } from "lucide-react";
-import "@/styles/globals.css";
 
 const faqs: { q: string; a: string }[] = [
   {
