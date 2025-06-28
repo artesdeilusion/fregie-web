@@ -80,7 +80,7 @@ const PrivacyPolicy = () => {
                 1. Giriş
               </h2>
               <p className="text-gray-700 mb-4">
-                fregie ("biz", "bizim" veya "uygulama") olarak, kullanıcılarımızın gizliliğine saygı duyuyoruz. 
+                fregie (&ldquo;biz&rdquo;, &ldquo;bizim&rdquo; veya &ldquo;uygulama&rdquo;) olarak, kullanıcılarımızın gizliliğine saygı duyuyoruz. 
                 Bu Gizlilik Politikası, fregie mobil uygulamasını kullandığınızda toplanan, kullanılan ve korunan 
                 bilgileri açıklar.
               </p>

@@ -1,5 +1,4 @@
-import Link from "next/link";
-import React, { useState } from "react";
+import React, { useState } from 'react';
 
 interface ShowcaseItem {
   title: string;

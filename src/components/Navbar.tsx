@@ -1,18 +1,6 @@
 import Link from "next/link";
 
 export default function Header() {
-  const scrollToSection = (sectionId: string) => {
-    const element = document.getElementById(sectionId);
-    if (element) {
-      const navbarHeight = 80;
-      const elementPosition = element.offsetTop - navbarHeight;
-      window.scrollTo({
-        top: elementPosition,
-        behavior: "smooth",
-      });
-    }
-  };
-
   return (
     <header className="navbar bg-white backdrop-blur-sm fixed left-0 right-0 z-[12]">
       <div className="relative max-w-screen-xl mx-auto px-4 py-4 flex items-center justify-between">

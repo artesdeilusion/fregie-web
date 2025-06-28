@@ -1,10 +1,7 @@
 import React, { useEffect } from 'react';
 import Head from 'next/head';
-import { useRouter } from 'next/router';
 
 const DownloadPage = () => {
-  const router = useRouter();
-
   useEffect(() => {
     // Set tracking cookie
     const setTrackingCookie = () => {
@@ -59,7 +56,7 @@ const DownloadPage = () => {
   return (
     <>
       <Head>
-        <title>fregie İndir - App Store'dan Ücretsiz İndirin | Akıllı Barkod Tarayıcı</title>
+        <title>fregie İndir - App Store&apos;dan Ücretsiz İndirin | Akıllı Barkod Tarayıcı</title>
         <meta name="description" content="fregie uygulamasını App Store'dan indirin. Akıllı barkod tarayıcı ile sağlıklı beslenme seçimlerini kolaylaştırın. Alerjilerinizi kontrol edin." />
         <meta name="keywords" content="fregie indir, barkod tarayıcı indir, sağlıklı beslenme uygulaması, app store" />
         
@@ -122,7 +119,7 @@ const DownloadPage = () => {
           
           <h1 className="text-3xl font-bold mb-4">fregie İndiriliyor</h1>
           <p className="text-gray-600 mb-8">
-            App Store'a yönlendiriliyorsunuz...
+            App Store&apos;a yönlendiriliyorsunuz...
           </p>
           
           <div className="animate-pulse">

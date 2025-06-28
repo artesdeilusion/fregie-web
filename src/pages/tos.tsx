@@ -80,11 +80,11 @@ const TermsOfService = () => {
                 1. Genel Hükümler
               </h2>
               <p className="text-gray-700 mb-4">
-                Bu Kullanım Şartları ("Şartlar"), fregie mobil uygulamasını ("Uygulama") kullanımınızı düzenler. 
+                Bu Kullanım Şartları (&ldquo;Şartlar&rdquo;), fregie mobil uygulamasını (&ldquo;Uygulama&rdquo;) kullanımınızı düzenler. 
                 Uygulamayı kullanarak bu şartları kabul etmiş sayılırsınız.
               </p>
               <p className="text-gray-700">
-                fregie, Artes de Ilusion ("Şirket", "biz", "bizim") tarafından işletilmektedir.
+                fregie, Artes de Ilusion (&ldquo;Şirket&rdquo;, &ldquo;biz&rdquo;, &ldquo;bizim&rdquo;) tarafından işletilmektedir.
               </p>
             </section>
 
@@ -148,7 +148,7 @@ const TermsOfService = () => {
             <section className="mb-12">
               <h2 className="text-2xl font-bold mb-6">5. Fikri Mülkiyet Hakları</h2>
               <p className="text-gray-700 mb-4">
-                fregie uygulaması ve tüm içeriği, Şirket'in fikri mülkiyetidir. 
+                fregie uygulaması ve tüm içeriği, Şirket&apos;in fikri mülkiyetidir. 
                 Aşağıdaki haklar korunmaktadır:
               </p>
               <ul className="list-disc pl-6 mb-6 text-gray-700">
@@ -198,7 +198,7 @@ const TermsOfService = () => {
             <section className="mb-12">
               <h2 className="text-2xl font-bold mb-6">9. Sınırlı Garanti</h2>
               <p className="text-gray-700 mb-4">
-                Uygulama "olduğu gibi" sunulur. Şirket, uygulamanın kesintisiz, 
+                Uygulama &ldquo;olduğu gibi&rdquo; sunulur. Şirket, uygulamanın kesintisiz, 
                 hatasız veya güvenli olacağını garanti etmez.
               </p>
             </section>
@@ -206,7 +206,7 @@ const TermsOfService = () => {
             <section className="mb-12">
               <h2 className="text-2xl font-bold mb-6">10. Sorumluluk Sınırlaması</h2>
               <p className="text-gray-700 mb-4">
-                Şirket'in sorumluluğu, kullanıcının ödediği ücretle sınırlıdır. 
+                Şirket&apos;in sorumluluğu, kullanıcının ödediği ücretle sınırlıdır. 
                 Dolaylı, özel, tesadüfi veya sonuçsal zararlardan sorumlu değildir.
               </p>
             </section>

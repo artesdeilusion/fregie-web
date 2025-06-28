@@ -38,7 +38,7 @@ export default function FAQ() {
         <div className="grid md:grid-cols-2 gap-12 items-start">
           {/* Left column: Heading and subheading */}
           <div>
-  <p className="text-lg font-medium mb-2 text-gray-900">SSS'ye Hoş Geldin!</p>
+  <p className="text-lg font-medium mb-2 text-gray-900">SSS&apos;ye Hoş Geldin!</p>
   <h2 className="text-5xl font-bold mb-4 text-gray-900 leading-tight">
   <span className="text-[#fa8072]">fregie</span> Hakkında<br />Merak Ettiklerin
   </h2>

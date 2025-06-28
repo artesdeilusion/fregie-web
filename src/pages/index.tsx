@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import { Star, ChevronDown, ChevronUp, Section } from 'lucide-react';
+import React from 'react';
 import Head from 'next/head';
 import Hero from '@/components/Hero';
 import Showcase from '@/components/Showcase';

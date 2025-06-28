@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function Footer() {
   return (
     <footer className="bg-white border-t border-gray-100">
@@ -25,13 +27,13 @@ export default function Footer() {
 
               <ul className="mt-6 space-y-1">
                 <li>
-                  <a className="text-gray-700 transition hover:text-gray-700/75" href="/privacy"> Gizlilik Politikası </a>
+                  <Link className="text-gray-700 transition hover:text-gray-700/75" href="/privacy"> Gizlilik Politikası </Link>
                 </li>
 
                 <li>
-                  <a className="text-gray-700 transition hover:text-gray-700/75" href="/tos">
+                  <Link className="text-gray-700 transition hover:text-gray-700/75" href="/tos">
                     Kullanım Şartları
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -45,7 +47,7 @@ export default function Footer() {
                 </li>
 
                 <li>
-                  <a className="text-gray-700 transition hover:text-gray-700/75" href="https://instagram.com/fregieapp"> Instagram </a>
+                  <a className="text-gray-700 transition hover:text-gray-700/75" href="https://instagram.com/fregie"> Instagram </a>
                 </li>
               </ul>
             </div>
