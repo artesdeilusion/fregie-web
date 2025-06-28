@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://fregie.app/sitemap.xml
+
+# Disallow download page from indexing (since it's a redirect page)
+Disallow: /download
+
+# Allow all other pages
+Allow: /privacy
+Allow: /tos 
