@@ -43,11 +43,11 @@ export default function Footer() {
 
               <ul className="mt-6 space-y-1">
                 <li>
-                  <a className="text-gray-700 transition hover:text-gray-700/75" href="mailto:hello@fregie.com"> hello@fregie.com </a>
+                  <a className="text-gray-700 transition hover:text-gray-700/75" href="mailto:hello@fregie.com"> info@fregie.app </a>
                 </li>
 
                 <li>
-                  <a className="text-gray-700 transition hover:text-gray-700/75" href="https://instagram.com/fregie"> Instagram </a>
+                  <a className="text-gray-700 transition hover:text-gray-700/75" href="https://instagram.com/fregieapp"> Instagram </a>
                 </li>
               </ul>
             </div>
@@ -56,7 +56,7 @@ export default function Footer() {
 
         <div className="mt-16 mb-8 border-t border-gray-100 pt-8">
           <p className="text-left text-xs/relaxed text-black">
-            © Copyright 2025 Artes de Ilusion. Tüm hakları saklıdır.
+            © Copyright 2025 Coddin Technologies. Tüm hakları saklıdır.
           </p>
         </div>
       </div>

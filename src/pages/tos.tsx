@@ -7,7 +7,7 @@ const TermsOfService = () => {
   return (
     <>
       <Head>
-        <title>Kullanım Şartları - fregie | Hizmet Kullanım Koşulları</title>
+        <title>Kullanım Şartları - fregie</title>
         <meta name="description" content="fregie uygulamasının kullanım şartları. Hizmet kullanım koşullarını, haklarınızı ve yasal sorumlulukları öğrenin. Detaylı kullanım şartları." />
         <meta name="keywords" content="kullanım şartları, hizmet koşulları, yasal haklar, fregie, kullanım politikası" />
         
@@ -246,10 +246,8 @@ const TermsOfService = () => {
               </p>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="text-gray-700">
-                  <strong>E-posta:</strong> legal@fregie.com<br />
-                  <strong>Adres:</strong> [Şirket Adresi]<br />
-                  <strong>Telefon:</strong> [Telefon Numarası]
-                </p>
+                  <strong>E-posta:</strong>info@fregie.app<br />
+                 </p>
               </div>
             </section>
           </div>

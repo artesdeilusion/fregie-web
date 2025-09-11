@@ -7,7 +7,7 @@ const PrivacyPolicy = () => {
   return (
     <>
       <Head>
-        <title>Gizlilik Politikası - fregie | Kişisel Verilerinizin Korunması</title>
+        <title>Gizlilik Politikası - fregie</title>
         <meta name="description" content="fregie uygulamasının gizlilik politikası. Kişisel verilerinizin nasıl korunduğunu, toplandığını ve kullanıldığını öğrenin. KVKK uyumlu." />
         <meta name="keywords" content="gizlilik politikası, kişisel veri koruması, KVKK, fregie, veri güvenliği" />
         
@@ -217,9 +217,8 @@ const PrivacyPolicy = () => {
               </p>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="text-gray-700">
-                  <strong>E-posta:</strong> privacy@fregie.com<br />
-                  <strong>Adres:</strong> [Şirket Adresi]<br />
-                  <strong>Telefon:</strong> [Telefon Numarası]
+                  <strong>E-posta:</strong> info@fregie.app<br />
+
                 </p>
               </div>
             </section>
