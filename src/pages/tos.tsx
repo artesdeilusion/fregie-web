@@ -10,7 +10,9 @@ const TermsOfService = () => {
         <title>Kullanım Şartları - fregie</title>
         <meta name="description" content="fregie uygulamasının kullanım şartları. Hizmet kullanım koşullarını, haklarınızı ve yasal sorumlulukları öğrenin. Detaylı kullanım şartları." />
         <meta name="keywords" content="kullanım şartları, hizmet koşulları, yasal haklar, fregie, kullanım politikası" />
-        
+        <meta name="robots" content="noindex" />
+
+
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://fregie.app/tos" />

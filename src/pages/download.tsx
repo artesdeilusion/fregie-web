@@ -38,14 +38,14 @@ const DownloadPage = () => {
         // Redirect to App Store after a short delay
         setTimeout(() => {
           // App Store URL for fregie app (replace with your actual App Store URL)
-          window.location.href = 'https://app.fregie.app/';
+          window.location.href = 'hhttps://apps.apple.com/tr/app/fregie/id6747919573?l=tr';
         }, 1000);
 
       } catch (error) {
         console.error('Error tracking download:', error);
         // Fallback redirect even if tracking fails
         setTimeout(() => {
-          window.location.href = 'https://app.fregie.app/';
+          window.location.href = 'https://apps.apple.com/tr/app/fregie/id6747919573?l=tr';
         }, 1000);
       }
     };
@@ -129,7 +129,7 @@ const DownloadPage = () => {
           <p className="text-sm text-gray-500 mt-6">
             Otomatik yönlendirme çalışmazsa, 
             <a 
-              href="https://app.fregie.app/" 
+              href="https://apps.apple.com/tr/app/fregie/id6747919573?l=tr" 
               className="text-[#fa8072] hover:underline ml-1"
             >
               buraya tıklayın

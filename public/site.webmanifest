@@ -1,6 +1,10 @@
 {
-  "name": "fregie",
-  "short_name": "fregie",
+  "name": "Fregie",
+  "short_name": "Fregie",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
@@ -15,7 +19,12 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
-  "display": "standalone"
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/tr/app/fregie/id6747919573?l=tr",
+      "id": "id6747919573"
+    }
+  ],
+  "prefer_related_applications": true
 }
